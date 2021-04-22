@@ -3,7 +3,7 @@
 **Projeto realizado na UFOP: Universidade Federal de Ouro Preto**
 Realizado na disciplina **Engenharia de Software 1 **
 ---
-*OBS:*
+OBS:
 Projama desenvolvido em Java com a utilização do JavaFX
 Interfaces desenvolvidas com SceneBuilder -> XML 
 Para execução do codigo é necessário configurar todos os packages com um nome de escolha propria.
